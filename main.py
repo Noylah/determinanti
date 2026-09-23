@@ -87,7 +87,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# i 2  3   2   
-# i 1  -1  2   
-# i 2  3   4  
